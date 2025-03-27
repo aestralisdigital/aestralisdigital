@@ -24,7 +24,7 @@ Aestralis Digital is built to be an **elite** and **trustworthy** agency, crafti
 
 ## 📬 Let's Connect
 - **Portfolio:** [Coming Soon]
-- **Email:** your.email@example.com
+- **Email:** aestralisdigital@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](#)
 - **GitHub:** [Your GitHub Profile](#)
 
